@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Nesse projeto eu desenvolvi a base de uma loja de roupas. Focando em estruturar alguns conhecimentos.
+Nesse projeto desenvolvi a base de uma loja de roupas. Focando em aprimorar alguns conhecimentos.
 
 Algumas funcionalidades não foram implementadas.
 
