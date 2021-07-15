@@ -10,4 +10,4 @@ Algumas funcionalidades não foram implementadas.
 
 Tive a dedicação em trazer um HTML mais semântico e acessível. Trouxe também um bom uso de Flex e Grid no CSS, além de outras funcionalidades dentro do mesmo.
 
-Além de consumir uma API que me fornecia as roupas e suas informações. 
+Fiz também o consumo de uma API que me fornecia as roupas e suas informações. 
